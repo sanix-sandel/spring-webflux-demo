@@ -1,5 +1,0 @@
-<configuration>
-    <appender name="STDOUT" class="">
-
-    </appender>
-</configuration>
